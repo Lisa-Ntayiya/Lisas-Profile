@@ -1,0 +1,39 @@
+.image{
+  border: 1px solid black;
+  background:url(C:\Users\Quickloc8\Pictures\Screenshots\IMG_0052 (2).JPG);
+  background-repeat: no-repeat;
+  padding:15px;
+}
+.roundpic {
+  vertical-align: middle;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.center{
+  text-align: center;
+  box-sizing: border-box;
+  border: 3px solid purple;
+  border-height: 100px;
+  border-padding: 30px;
+
+
+ }
+ .style{
+  text-align:center;
+  color:#4B0082;
+  font-family:"Harlow Solid Italic;"
+
+
+ }
+.box {
+  box-sizing: border-box;
+  width: 300px;
+  height: 100px;
+  padding: 30px;
+  border: 10px solid blue;
+}
